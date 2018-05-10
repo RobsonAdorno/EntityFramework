@@ -52,6 +52,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DAO\PessoaDAO.cs" />
     <Compile Include="Migrations\201805102241562_CriarBanco.cs" />
     <Compile Include="Migrations\201805102241562_CriarBanco.Designer.cs">
       <DependentUpon>201805102241562_CriarBanco.cs</DependentUpon>

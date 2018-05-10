@@ -26,3 +26,12 @@ C:\Users\Aluno\Desktop\BancoDadosEcoville\BancoDadosEcoville\obj\Debug\BancoDado
 C:\Users\Aluno\Desktop\EntityFramework\BancoDadosEcoville\BancoDadosEcoville\bin\Debug\BancoDadosEcoville.exe.config
 C:\Users\Aluno\Desktop\EntityFramework\BancoDadosEcoville\BancoDadosEcoville\obj\Debug\BancoDadosEcoville.exe
 C:\Users\Aluno\Desktop\EntityFramework\BancoDadosEcoville\BancoDadosEcoville\obj\Debug\BancoDadosEcoville.pdb
+C:\Users\Aluno\Desktop\EntityFramework\BancoDadosEcoville\BancoDadosEcoville\bin\Debug\BancoDadosEcoville.exe
+C:\Users\Aluno\Desktop\EntityFramework\BancoDadosEcoville\BancoDadosEcoville\bin\Debug\BancoDadosEcoville.pdb
+C:\Users\Aluno\Desktop\EntityFramework\BancoDadosEcoville\BancoDadosEcoville\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Desktop\EntityFramework\BancoDadosEcoville\BancoDadosEcoville\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Desktop\EntityFramework\BancoDadosEcoville\BancoDadosEcoville\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Desktop\EntityFramework\BancoDadosEcoville\BancoDadosEcoville\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Desktop\EntityFramework\BancoDadosEcoville\BancoDadosEcoville\obj\Debug\BancoDadosEcoville.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\EntityFramework\BancoDadosEcoville\BancoDadosEcoville\obj\Debug\BancoDadosEcoville.Migrations.CriarBanco.resources
+C:\Users\Aluno\Desktop\EntityFramework\BancoDadosEcoville\BancoDadosEcoville\obj\Debug\BancoDadosEcoville.csproj.GenerateResource.Cache

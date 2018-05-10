@@ -13,20 +13,21 @@ namespace BancoDadosEcoville
         static void Main(string[] args)
         {
             string op;
+            Pessoa p = new Pessoa();
             do {
                 
                 Console.WriteLine("Selecione a opção abaixo!");
+                Console.WriteLine("1 - Cadastrar Usuário");
+                Console.WriteLine("2 - Listar Usuário");
                 op = Console.ReadLine();
 
                 switch (op)
                 {
                     case "1":
-                        Pessoa p = new Pessoa();
                        
                         Console.WriteLine("Digite o seu nome");
                         p.Nome = Console.ReadLine();
-                        Console.WriteLine("Digite a data de nascimento");
-                        p.Nascimento = Convert.ToDateTime(Console.ReadLine());
+                        p.Nascimento = DateTime.Now;
                         Console.WriteLine("Digite o seu CPF");
                         p.Cpf = Console.ReadLine();
                         Console.WriteLine("Digite o seu telefone");
@@ -39,12 +40,17 @@ namespace BancoDadosEcoville
                         break;
 
                     case "2":
-
-
+                        foreach (Pessoa item in PessoaDAO.ListarPessoa())
+                        {
+                            Console.WriteLine(item.Nome);
+                        }
+                       
                         break;
                     default:
                         break;
                 }
+                Console.WriteLine("Digite uma tecla para terminar a aplicação! ");
+                Console.ReadLine();
             } while (op != "0");
 
 
